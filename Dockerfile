@@ -1,1 +1,1 @@
-FROM quay.io/cephcsi/cephcsi:canary
+FROM quay.io/cephcsi/cephcsi:v3.6.1
